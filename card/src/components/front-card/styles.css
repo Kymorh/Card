@@ -1,0 +1,35 @@
+.first{
+  position: relative;
+}
+.fir{
+    width: 450px;
+  }
+
+  .avatar{
+    position: absolute;
+    left: 20px;
+    top: 20px;
+  }
+  .number{
+    position: absolute;
+    bottom: 90px;
+    font-size: 35px;
+    left: 25px;
+    color: aliceblue;
+  
+  }
+  .name{
+  position: absolute;
+  bottom: 45px;
+  left: 25px;
+  color: aliceblue;
+  font-size: px;
+  }
+  .date{
+    position: absolute;
+    bottom: 45px;
+    right: 94px;
+    color: aliceblue;
+    font-size: 16px;
+  }
+ 

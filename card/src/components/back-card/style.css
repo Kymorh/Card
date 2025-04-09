@@ -1,0 +1,13 @@
+.second{
+    position: relative;
+}
+.sec{
+  margin-left: 50px;
+  width: 450px;
+}
+.CVC{
+    position: absolute;
+    bottom: 120px;
+    left: 405px;
+    color: aliceblue;
+  }

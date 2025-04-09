@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-image: url(/images/bg-main-desktop.png);
+  background-repeat: no-repeat;
+  font-family: "Space Grotesk", sans-serif;
+
+}
+
+
+.content{
+  display: flex;
+  flex-direction: row;
+  gap: 150px;
+}
+.card{
+  display:flex;
+  flex-direction: column;
+  margin-top: 100px;
+  margin-left: 130px;
+  gap: 20px;
+  /* width: auto; */
+}
+
+.fir{
+  width: 450px;
+}
+
+.first{
+  position: relative;
+}
+.avatar{
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}
+.number{
+  position: absolute;
+  bottom: 90px;
+  font-size: 35px;
+  left: 25px;
+  color: aliceblue;
+
+}
+.name{
+position: absolute;
+bottom: 45px;
+left: 25px;
+color: aliceblue;
+font-size: px;
+}
+.date{
+  position: absolute;
+  bottom: 45px;
+  right: 94px;
+  color: aliceblue;
+  font-size: 16px;
+}
+/* .data{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+
+}
+.mmyy{
+width: 50%;
+display: flex;
+flex-direction: row;
+gap:10px;
+}
+.form{
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  gap:10px;
+  justify-content: center; */
+/* } */

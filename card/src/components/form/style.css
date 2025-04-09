@@ -1,0 +1,19 @@
+.data{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  
+  }
+  .mmyy{
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+  gap:10px;
+  }
+  .form{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    gap:10px;
+    justify-content: center;
+  }
